@@ -1,2 +1,3 @@
-# ecommerce-data-cleaning
-Pipeline automatisé de data cleaning et standardisation de la base e-commerce Olist avec Pandas. Ce projet traite les anomalies et formate les données pour garantir leur intégrité. Il génère une base saine, parfaitement optimisée pour l'intelligence d'affaires (BI) et l'entraînement de modèles prédictifs d'IA.
+La qualité des données est la fondation de tout modèle d'intelligence artificielle et de toute analyse d'intelligence d'affaires fiable. Ce projet démontre la mise en place d'un pipeline de Data Preparation sur le jeu de données public Olist (e-commerce brésilien).
+
+Le script Python développé ici se charge de nettoyer, standardiser et corriger les anomalies (typage strict des codes postaux pour éviter les pertes de données, harmonisation de la casse pour les jointures SQL, etc.) afin de transformer des données brutes en une source fiable, prête à alimenter des algorithmes de Machine Learning ou des tableaux de bord interactifs.
